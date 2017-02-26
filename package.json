@@ -1,0 +1,29 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "workflow with npm, sass, gulp, etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skilcoyne3/workflow.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "GIT",
+    "GULP"
+  ],
+  "author": "Shawn Kilcoyne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skilcoyne3/workflow/issues"
+  },
+  "homepage": "https://github.com/skilcoyne3/workflow",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
