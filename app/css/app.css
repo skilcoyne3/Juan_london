@@ -6757,7 +6757,7 @@ button.close {
 /*# sourceMappingURL=bootstrap.css.map */
 
 body {
-  background-color: #bbb;
+  background-color: #bbb !important;
 }
 
 h1:hover {
