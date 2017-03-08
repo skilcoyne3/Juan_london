@@ -1,0 +1,62 @@
+/* My Variables */
+$white: #FFF;
+$blue: #0076A3;
+$dark-blue: darken($blue, 10);
+$light-blue: lighter($blue, 10);
+$yellow: #FFBA00;
+$green: #548c27;
+$red: #FE2D28;
+$black: #000;
+
+$bg-color: $blue;
+$text-color: $black;
+$p-font-size: 1.4rem;
+$p-fnt-family: 'Open Sans', sans-serif;
+
+$heading-color: $yellow;
+$nav-bg-color: $dark-blue;
+$menu-anchor-font-size: 1.4rem;
+
+//heading tags (maps)
+$heading-fnt-family: 'Bitter', serif;
+$heading-fnt-weight: 700;
+$heading-fnt-size: (
+    h1: 40px,
+    h2: 36px,
+    h3: 32px,
+    h4: 28px,
+    h5: 24px,
+    h6: 20px
+);
+
+//cards
+$card-bg-color: $white;
+$card-txt-fnt-size: 1rem;
+
+//tables
+$tbl-fnt-size: 1rem;
+$tbl-caption-fnt-family: $heading-fnt-family;
+$tbl-color: $white;
+$tbl-hover-bg-color: darken($yellow, 5);
+
+//services
+$p-services-fnt-size: 1rem;
+//visit
+$visit-border-color: $white;
+$visit-heading-color: lighten($yellow, 10);
+$visit-text-color: $white;
+
+//grid & repsonsive
+$breakpoints: (
+     phone: 480px,
+     tablet: 768px,
+     desktop: 1024px
+);
+$columns: 12;
+$grid-max-width: 1200px;
+
+//buttons
+$btn-fnt-size: 16px;
+
+//footer
+$bg-footer: $dark-blue;

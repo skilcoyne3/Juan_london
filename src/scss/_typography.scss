@@ -1,0 +1,13 @@
+/* typography code */
+h1,h2,h3,h4,h5,h6{
+    color: $heading-color;
+    font-family: $heading-fnt-family;
+    font-weight: $heading-fnt-weight;
+}
+h2{
+    margin: 20px 0;
+}
+
+p{
+    font-size: $p-font-size;
+}
